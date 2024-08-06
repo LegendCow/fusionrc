@@ -133,6 +133,12 @@ footer .social-links a {
   text-decoration: none;
 }
 
+.form-container {
+  max-width: 600px;
+  position: absolute;
+  transform: translateX(-50%)
+}
+
 @media (max-width: 768px) {
   body::before {
     background: url('background-2.jpg') no-repeat center center fixed;
