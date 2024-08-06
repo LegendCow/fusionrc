@@ -136,7 +136,7 @@ footer .social-links a {
 .form-container {
   max-width: 600px;
   position: absolute;
-  transform: translateX(50%);
+  transform: translateX(-50%);
 }
 
 @media (max-width: 768px) {
